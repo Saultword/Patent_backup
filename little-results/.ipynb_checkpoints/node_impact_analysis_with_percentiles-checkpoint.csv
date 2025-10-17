@@ -1,0 +1,2 @@
+node,networkEfficiency_before,ClusteringCoefficient_before,networkEfficiency_after,ClusteringCoefficient_after,connectivity_after,efficiency_change,clustering_change,efficiency_change_percentile,clustering_change_percentile,connectivity_after_percentile
+WO2020231833-A1,0,0,0,0,0.0,0,0,1.0,1.0,1.0

@@ -1,0 +1,2 @@
+PatentNumber,CitedByOthers,CitesOthers,TotalDegree,GlobalEfficiency,SubgraphEfficiency,BetweennessCentrality,ClosenessCentrality,ClusteringCoefficient,ComponentSize,Connectivity
+WO2020231833-A1,0,0,0,0,0,0.0,0.0,0,1,1.0

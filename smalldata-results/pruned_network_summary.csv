@@ -1,0 +1,10 @@
+metric,value
+pruned_network_nodes,103.0
+pruned_largest_component_nodes,51.0
+pruned_network_edges,105.0
+pruned_largest_component_edges,91.0
+component_size_ratio,0.49514563106796117
+component_edges_ratio,0.8666666666666667
+robustness_efficiency,0.3528
+robustness_connectivity,1.0
+robustness_clustering,0.1669
